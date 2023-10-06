@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Dragon",
+    "Name": "Visibility (instanced)",
+    "Punchline": "Allows you to hide players, pets, chocobos and minions.",
+    "Description": "Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp",
+    "Changelog": null,
+    "Tags": [
+      "Blacklist",
+      "Void",
+      "VoidList",
+      "Ban",
+      "Hide",
+      "Visibility",
+      "QoL"
+    ],
+    "CategoryTags": null,
+    "IsHide": false,
+    "InternalName": "Visibility",
+    "AssemblyVersion": "1.1.6.0",
+    "TestingAssemblyVersion": null,
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+  }
+]

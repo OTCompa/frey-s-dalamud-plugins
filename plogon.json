@@ -1,17 +1,19 @@
 [
-    "Author": "Dragon",
-    "Name": "Visibility (instanced)",
-    "Punchline": "",
-    "Description": "",
-    "Tags": [],
-    "InternalName": "Visibility (instanced)",
-    "RepoUrl": "https://github.com/OTCompa/VisibilityPlugin",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/OTCompa/VisibilityPlugin/releases/download/release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/OTCompa/VisibilityPlugin/releases/download/release/latest.zip",
-    "AssemblyVersion": "6.50",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "6.5"
+    {
+        "Author": "Dragon",
+        "Name": "Visibility (instanced)",
+        "Punchline": "",
+        "Description": "",
+        "Tags": [],
+        "InternalName": "Visibility (instanced)",
+        "RepoUrl": "https://github.com/OTCompa/VisibilityPlugin",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://github.com/OTCompa/VisibilityPlugin/releases/download/release/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/VisibilityPlugin/releases/download/release/latest.zip",
+        "AssemblyVersion": "6.50",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "6.5"
+    }
 ]

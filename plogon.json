@@ -23,5 +23,7 @@
     "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
+    "DownloadLinkInstall": "https://github.com/OTCompa/VisibilityPlugin/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/OTCompa/VisibilityPlugin/releases/download/release/latest.zip"
   }
 ]

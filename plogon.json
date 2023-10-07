@@ -19,7 +19,7 @@
     },
     {
         "Author": "Cair",
-        "Name": "Redirect",
+        "Name": "Redirect (API9)",
         "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!",
         "Description": "(API9) Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
         "Tags": [],

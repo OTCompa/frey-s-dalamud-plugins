@@ -16,23 +16,5 @@
         "DalamudApiLevel": "9",
         "Changelog": "6.5",
         "IconUrl": ""
-    },
-    {
-        "Author": "Cair",
-        "Name": "Redirect (API9)",
-        "Punchline": "Change where your actions are going, queue macros, queue sprint, and queue potions!",
-        "Description": "(API9) Easily change the targeting priority for spells and abilities. Queue macros, sprint, and potions! Type /redirect to configure.",
-        "Tags": [],
-        "InternalName": "Redirect",
-        "RepoUrl": "https://github.com/OTCompa/Redirect",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/OTCompa/Redirect/releases/download/v1.2.1.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/Redirect/releases/download/v1.2.1.6/latest.zip",
-        "AssemblyVersion": "1.2.1.6",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
-        "Changelog": "API9",
-        "IconUrl": ""
     }
 ]

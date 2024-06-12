@@ -34,5 +34,23 @@
         "DalamudApiLevel": "9",
         "Changelog": "a",
         "IconUrl": ""
+      },
+      {
+        "Author": "Frey",
+        "Name": "John Finalfantasy",
+        "Punchline": "Streamer mode for FFXIV.",
+        "Description": "A plugin that replaces the names of players in your party with preset names. Based on Nomina Occulta by anna.lgbt.",
+        "Tags": [],
+        "InternalName": "JohnFinalfantasy",
+        "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
+        "DownloadCount": 0,
+        "LastUpdate": 1718216048,
+        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.0.0/latest.zip",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "a",
+        "IconUrl": ""
       }
 ]

@@ -49,7 +49,7 @@
         "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.0.6/latest.zip",
         "AssemblyVersion": "1.0.0.6",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": "9",
+        "DalamudApiLevel": "10",
         "Changelog": "Update for API10",
         "IconUrl": ""
       }

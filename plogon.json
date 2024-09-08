@@ -44,13 +44,13 @@
         "InternalName": "JohnFinalfantasy",
         "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
         "DownloadCount": 0,
-        "LastUpdate": 1721328495,
-        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.0.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.0.8/latest.zip",
-        "AssemblyVersion": "1.0.0.8",
+        "LastUpdate": 1725756893,
+        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "htthttps://github.com/OTCompa/john-finalfantasy/releases/download/1.0.1.0/latest.zip",
+        "AssemblyVersion": "1.0.1.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "Update for API10",
+        "Changelog": "Rewrite plogon",
         "IconUrl": ""
       },
       {

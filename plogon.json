@@ -44,13 +44,13 @@
         "InternalName": "JohnFinalfantasy",
         "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
         "DownloadCount": 0,
-        "LastUpdate": 1743501601,
-        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.2.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.2.2/latest.zip",
-        "AssemblyVersion": "1.0.2.2",
+        "LastUpdate": 1754449273,
+        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.2.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.2.3/latest.zip",
+        "AssemblyVersion": "1.0.2.3",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": "12",
-        "Changelog": "api12",
+        "DalamudApiLevel": "13",
+        "Changelog": "api13",
         "IconUrl": ""
       }
 ]

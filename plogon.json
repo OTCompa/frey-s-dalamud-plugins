@@ -44,13 +44,13 @@
         "InternalName": "JohnFinalfantasy",
         "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
         "DownloadCount": 0,
-        "LastUpdate": 1756847835,
-        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.2/latest.zip",
-        "AssemblyVersion": "1.0.3.2",
+        "LastUpdate": 1756849648,
+        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.3/latest.zip",
+        "AssemblyVersion": "1.0.3.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
-        "Changelog": "fix nameplates sometimes flashing",
+        "Changelog": "improve resetting names",
         "IconUrl": ""
       }
 ]

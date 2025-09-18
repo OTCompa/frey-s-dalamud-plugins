@@ -8,13 +8,13 @@
         "InternalName": "JohnFinalfantasy",
         "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
         "DownloadCount": 0,
-        "LastUpdate": 1756849648,
-        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.3/latest.zip",
-        "AssemblyVersion": "1.0.3.3",
+        "LastUpdate": 1758217705,
+        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.4/latest.zip",
+        "AssemblyVersion": "1.0.3.4",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
-        "Changelog": "improve resetting names",
+        "Changelog": "revert name reset, fix plugin not resetting names on unload, better regex for prefix",
         "IconUrl": ""
       }
 ]

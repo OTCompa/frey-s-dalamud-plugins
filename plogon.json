@@ -14,7 +14,7 @@
         "AssemblyVersion": "1.0.3.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
-        "Changelog": "add "all" subcommand",
+        "Changelog": "add 'all' subcommand",
         "IconUrl": ""
       }
 ]

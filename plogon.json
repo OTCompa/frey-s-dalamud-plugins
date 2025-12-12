@@ -26,13 +26,13 @@
         "InternalName": "VoicedNaelQuotes",
         "RepoUrl": "https://github.com/OTCompa/VoicedNaelQuotes",
         "DownloadCount": 0,
-        "LastUpdate": 1765502565,
-        "DownloadLinkInstall": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.2/latest.zip",
-        "AssemblyVersion": "0.0.0.2",
+        "LastUpdate": 1765506335,
+        "DownloadLinkInstall": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.3/latest.zip",
+        "AssemblyVersion": "0.0.0.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "13",
-        "Changelog": "teto voice pack",
+        "Changelog": "fix teto cutting out early in longer quote, minor config ui adjustment",
         "IconUrl": ""
       }
 ]

@@ -26,13 +26,13 @@
         "InternalName": "VoicedNaelQuotes",
         "RepoUrl": "https://github.com/OTCompa/VoicedNaelQuotes",
         "DownloadCount": 0,
-        "LastUpdate": 1766040446,
-        "DownloadLinkInstall": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.5/latest.zip",
-        "AssemblyVersion": "0.0.0.5",
+        "LastUpdate": 1766810114,
+        "DownloadLinkInstall": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.6/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/VoicedNaelQuotes/releases/download/0.0.0.6/latest.zip",
+        "AssemblyVersion": "0.0.0.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "api14",
+        "Changelog": "support for different client languages",
         "IconUrl": ""
       },
 ]

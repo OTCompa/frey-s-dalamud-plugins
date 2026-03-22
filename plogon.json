@@ -35,4 +35,26 @@
         "Changelog": "support for different client languages",
         "IconUrl": ""
       },
+      {
+        "Author": "Frey",
+        "Name": "Mapo Tofu",
+        "Punchline": "Never forget to open a strategy board again!",
+        "Description": "Automatically opens and swaps to specific strategy boards depending on some conditions!",
+        "Tags": [
+          "strategy",
+          "board",
+          "tofu"
+        ],
+        "InternalName": "MapoTofu",
+        "RepoUrl": "https://github.com/OTCompa/MapoTofu",
+        "DownloadCount": 0,
+        "LastUpdate": 1774140074,
+        "DownloadLinkInstall": "https://github.com/OTCompa/MapoTofu/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/MapoTofu/releases/download/0.0.0.1/latest.zip",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "14",
+        "Changelog": "Initial version",
+        "IconUrl": ""
+      },
 ]

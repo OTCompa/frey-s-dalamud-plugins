@@ -48,13 +48,13 @@
         "InternalName": "MapoTofu",
         "RepoUrl": "https://github.com/OTCompa/MapoTofu",
         "DownloadCount": 0,
-        "LastUpdate": 1774140074,
-        "DownloadLinkInstall": "https://github.com/OTCompa/MapoTofu/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/MapoTofu/releases/download/0.0.0.1/latest.zip",
-        "AssemblyVersion": "0.0.0.1",
+        "LastUpdate": 1774179874,
+        "DownloadLinkInstall": "https://github.com/OTCompa/MapoTofu/releases/download/0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/MapoTofu/releases/download/0.0.0.2/latest.zip",
+        "AssemblyVersion": "0.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "14",
-        "Changelog": "Initial version",
+        "Changelog": "Fixed some edge cases in the history tab",
         "IconUrl": ""
       },
 ]

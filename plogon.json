@@ -8,13 +8,13 @@
         "InternalName": "JohnFinalfantasy",
         "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
         "DownloadCount": 0,
-        "LastUpdate": 1777695935,
-        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.10/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.10/latest.zip",
-        "AssemblyVersion": "1.0.3.10",
+        "LastUpdate": 1777695936,
+        "DownloadLinkInstall": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/john-finalfantasy/releases/download/1.0.3.11/latest.zip",
+        "AssemblyVersion": "1.0.3.11",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "15",
-        "Changelog": "api15",
+        "Changelog": "add option to use job names",
         "IconUrl": ""
       },
       {

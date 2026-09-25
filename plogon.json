@@ -57,4 +57,22 @@
         "Changelog": "Improve board swapping and clean up internal code",
         "IconUrl": ""
       },
+      {
+        "Author": "Frey",
+        "Name": "File Helper plugin",
+        "Punchline": "stuff",
+        "Description": "Utility plugin for random stuff",
+        "Tags": [],
+        "InternalName": "FileHelperPlugin",
+        "RepoUrl": "https://github.com/OTCompa/helper-plugin",
+        "DownloadCount": 0,
+        "LastUpdate": 1777695938,
+        "DownloadLinkInstall": "https://github.com/OTCompa/helper-plugin/releases/download/1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/helper-plugin/releases/download/1/latest.zip",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "15",
+        "Changelog": "",
+        "IconUrl": ""
+      },
 ]

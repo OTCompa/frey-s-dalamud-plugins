@@ -66,13 +66,33 @@
         "InternalName": "FileHelperPlugin",
         "RepoUrl": "https://github.com/OTCompa/helper-plugin",
         "DownloadCount": 0,
-        "LastUpdate": 1777695938,
-        "DownloadLinkInstall": "https://github.com/OTCompa/helper-plugin/releases/download/1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OTCompa/helper-plugin/releases/download/1/latest.zip",
-        "AssemblyVersion": "0.0.0.1",
+        "LastUpdate": 1791343468,
+        "DownloadLinkInstall": "https://github.com/OTCompa/helper-plugin/releases/download/v.0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OTCompa/helper-plugin/releases/download/v.0.0.0.2/latest.zip",
+        "AssemblyVersion": "0.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "15",
         "Changelog": "",
         "IconUrl": ""
+      },
+      {
+        "Author": "UnknownX",
+        "Name": "Cammy (Frey fork)",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Tags": [
+          "utility"
+        ],
+        "InternalName": "Cammy",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "DownloadCount": 0,
+        "LastUpdate": 1791343468,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
+        "AssemblyVersion": "2.1.1.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "15",
+        "Changelog": "Fix camera resetting to default on zoning (Thanks to Chat Ja)",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png"
       },
 ]
